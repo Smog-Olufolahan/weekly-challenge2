@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+}
+
+form {
+     border: solid white 2px;
+      width: 500px;
+      height: 230px;
+      margin: 0 auto;
+      
+  }
+
+  label {
+      text-align: left;
+      margin: 0px 10px;
+  }
+  
+  input {
+      text-align: left;
+    width: 350px;
+    padding: 12px 10px;
+    margin: 10px 3px;
+    box-sizing: border-box;
+  }
+
+  #name {
+        border: 2px lightblue solid;
+     
+  }
+  
+  #email {
+        border: 2px green solid;
+  }
+     
+  #age {
+        border: 2px orange solid;
+  }
+   
+  #submit {
+         text-align: center;
+         background-color: green;
+         border-radius: 5px;
+         margin: auto;
+  }
